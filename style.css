@@ -1,0 +1,193 @@
+/* raff work  */
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.clear{
+    clear: both;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+
+#row {
+    height: 60px;
+    width: 100%;
+    background-color: #fff;
+   
+}
+
+
+.row_one{
+
+    float: left;
+    margin-left: 50px;
+
+    
+}
+
+#row a{
+    margin-top: 40px;
+    margin:20px;
+    font-size: 15px;
+    color:#888c8d;
+    text-align: center;
+
+}
+
+/* right sign in the box of yellow  */
+
+
+.right{
+    margin-right: 90px;
+    color:#888c8d;
+    font-size: 15px;
+}
+
+/* container is ready for know  */
+
+
+#container{
+
+    outline: 2px soild white;
+    padding: 20em;
+    background-image: url("image/dargN.jpg");
+    background-repeat: no-repeat;
+    /* background-size: auto; */
+    background-position:center;
+    background-size: 100% 660px;
+    
+ 
+}
+
+.bg-img{
+
+   color: #fff;
+   left: 20%;
+   margin-right: 550px;
+   position:absolute;
+   margin-top: 100px;
+   padding: 10px;
+
+}
+
+h1{
+    font-size: 50px;
+}
+
+h3{
+    font-size: 15px;
+    font-family: monospace;
+}
+
+.btn-1{
+    background-color: #0096FF;
+    height: 50px;
+    width: 140px;
+    margin-top: 3%;
+    color: white;
+    font-family: monospace;
+    border: 10px;
+    margin: 5px;
+
+  
+
+    
+
+}
+
+.btn-2{
+    background-color: #0096FF;
+    height: 50px;
+    width: 140px;
+    margin-top: 20px;
+    color: white;
+    border: 10px;
+    margin: 5px;
+   
+}
+
+/* box one and box section  */
+
+
+.box_one{
+    text-align: center;
+    color: white;
+
+}
+
+.box{
+    float: left;
+    margin: 10px;
+    height: 370px;
+    width: 320px;
+    background-color: #EEEEEE;
+    margin-left: 30px;
+    
+    border: 3px solid;
+    padding: 5px;
+    box-shadow: 5px 10px #EEEEEE;
+
+}
+
+p{
+
+    color: black;
+    text-align: left;
+
+}
+ 
+a p{
+    margin: 4px;
+text-decoration: underline;
+font-size: 18px;
+border-radius: 4px;
+font-family: monospace;
+color: #AAC4FF;
+
+}
+
+/* min hight and width  */
+
+.min{
+    height: 100px;
+    width: 100%;
+   background-color:#EEEEEE;
+    margin-top: 30px;
+    
+}
+
+.min h4{
+    
+    float: left;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.rig{
+    float: right;
+    margin-right: 30px;
+    margin-top: 30px;
+
+}
+
+hr{
+
+   text-decoration: underline;
+}
+/* enny style  */
+
+.enny{
+    background-color: rgb(159, 25, 25);
+}
